@@ -9,7 +9,7 @@
 
 	<!-- 坐标 -->
 	<groupId>lyx.com</groupId>
-	<artifactId>java-study</artifactId>
+	<artifactId>vscode-workspacefile-sort</artifactId>
 	<version>1.0.0</version>
 
 	<dependencies>
