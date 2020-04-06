@@ -39,6 +39,8 @@ public class Main
 		}
 
 		sortWorkspaceFile(workspaceFilePath);
+
+		System.out.println("排序完成！");
 	}
 
 	/**
